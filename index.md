@@ -1,4 +1,4 @@
-# HALDO
+# Oh hey 
 
 I am currently a Data Science for Social Good Fellow at the eScience Institute at the University of Washington, where I am working with a team to build an object detection model to identify degrees of monetary damages from post-disaster satellite imagery. I am also a student working towards an M.S. in Computational Linguistics at the University of Washington and writing a thesis on toponym resolution in unstructured text. My broad aim is to address social science questions by analyzing unstructured linguistic text. I am also interested in building systems to translate spatial language from text into meaningful representations.</p>
 
