@@ -1,4 +1,4 @@
-# Oh hey!
+# About
 
 *Status: Currently seeking opportunities for Fall 2018*
 
