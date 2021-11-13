@@ -6,7 +6,6 @@ Prior to graduating from the University of Washington with an M.S. in Computatio
 
 ### News
 
-**September, 2021** - *Orthographic Transliteration for Kabyle Speech Recognition* accepted to (ICNLSP 2021)[http://icnlsp.org/icnlsp2021/]
-Project GitHub: (https://github.com/berbertranslit)
+**September, 2021** - *Orthographic Transliteration for Kabyle Speech Recognition* accepted to [ICNLSP 2021](http://icnlsp.org/icnlsp2021/) - [Project GitHub](https://github.com/berbertranslit)
 
 **January, 2021** - *[Economics of invasive species](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-tAcAUsAAAAJ&citation_for_view=-tAcAUsAAAAJ:Wp0gIr-vW9MC)* book chapter published in **[Invasive Species in Forests and Rangelands of the United States](https://link.springer.com/book/10.1007/978-3-030-45367-1)**
