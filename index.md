@@ -1,4 +1,4 @@
-I am currently an NLP Data Scientist at USAA building systems for information extraction, grammar induction, corpus analytics, and speech recognition. I am currently developing models to induce explainable and unsupervised ontologies of text corpora for intelligible, discrete concept featurization of domains. 
+I am currently an NLP Data Scientist at USAA building systems for information extraction, grammar induction, corpus analytics, and speech recognition. My most recent work attempts to induce explainable and unsupervised ontologies of text corpora for intelligible, discrete concept featurization of domains. 
 Previously, I was an NLP Engineer at [mosaix.ai](https://www.mosaix.ai/), a semantic search and voice assistant startup.
 
 Prior to graduating from the University of Washington with an M.S. in Computational Linguistics, I obtained an M.P.P. from the University of Virginia and served as an Economics Fellow researching spatio-temporal accounting of ecosystem services with the U.S. Forest Service' Research and Development branch.
