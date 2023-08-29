@@ -2,7 +2,7 @@ I am currently a PhD student at UW Linguistics working with the [CLMBR group](ht
 
 ### News
 
-**May, 2023** - I have committed to joining the UW Linguistics PhD program (computational track) in the fall!
+**May, 2023** - I will be joining the UW Linguistics PhD program (computational track) in the fall!
 
 **February, 2023** - *[Kabyle ASR Phonological Error and Network Analysis]([https://aclanthology.org/2021.icnlsp-1.3/](https://link.springer.com/chapter/10.1007/978-3-031-11035-1_3))* was published as a book chapter in [Analysis and Application of Natural Language and Speech Processing](https://link.springer.com/book/10.1007/978-3-031-11035-1)
 
