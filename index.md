@@ -8,7 +8,7 @@ My professional experience working as an applied NLP data scientist / engineer s
 
 **September, 2024** - *Forthcoming* at [WMT24 at EMNLP](https://www2.statmt.org/wmt24/): *[Machine Translation Evaluation Benchmark for Wu Chinese: Workflow and Analysis](https://arxiv.org/pdf/2410.10278)*
 
-**May, 2024** - *[Italian-Ligurian Machine Translation in its Cultural Context](https://aclanthology.org/2024.sigul-1.21/) included in the [Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages @ LREC-COLING 2024](https://aclanthology.org/volumes/2024.sigul-1/)
+**May, 2024** - *[Italian-Ligurian Machine Translation in its Cultural Context](https://aclanthology.org/2024.sigul-1.21/)* included in the [Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages @ LREC-COLING 2024](https://aclanthology.org/volumes/2024.sigul-1/)
 
 **May, 2023** - I will be joining the UW Linguistics PhD program (computational track) in the fall!
 
